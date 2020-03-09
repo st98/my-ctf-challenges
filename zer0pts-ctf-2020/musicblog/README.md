@@ -18,9 +18,11 @@
 - [Japanese](https://st98.github.io/diary/posts/2020-03-09-zer0pts-ctf-2020.html#web-653-musicblog)
 
 ## Writeups
-- (ko) [Zer0pts CTF 2020](https://blog.rwx.kr/zer0pts-CTF-2020/#653pts-MusicBlog-2nd-solve) by posix
 - (en) [CTFtime.org / zer0pts CTF 2020 / MusicBlog / Writeup](https://ctftime.org/writeup/18604) by Pwnasonic
 - (en) [ctf-writeups/2020/zer0pts-2020/MusicBlog at master · perfectblue/ctf-writeups](https://github.com/perfectblue/ctf-writeups/tree/master/2020/zer0pts-2020/MusicBlog)
+- (ko) [Zer0pts CTF 2020](https://blog.rwx.kr/zer0pts-CTF-2020/#653pts-MusicBlog-2nd-solve) by posix
+- (ko) [Zer0pts 2020 Write up | jhyeon](https://blog.jhyeon.xyz/ctf,%20writeup/2020/03/09/zer0ctf/#web-music-blog653-pt)
+- (zh-tw) [CTF/zer0pts2020/MusicBlog at master · w181496/CTF](https://github.com/w181496/CTF/tree/master/zer0pts2020/MusicBlog)
 
 ## Flag
 ```
