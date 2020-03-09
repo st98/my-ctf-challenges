@@ -1,0 +1,23 @@
+.badge-love {
+  color: #fff;
+  background-color: #f5857d;
+}
+
+.btn-love {
+  color: #fff;
+  background-color: #f5857d;
+  border-color: #f5857d;
+}
+
+.btn-love:hover {
+  color: #fff;
+  background-color: #d86d65;
+  border-color: #c9655e;
+}
+
+.btn-love:focus {
+  color: #fff;
+  background-color: #d86d65;
+  border-color: #c9655e;
+  box-shadow: 0 0 0 0.2rem rgba(244, 167, 161, 0.5);
+}

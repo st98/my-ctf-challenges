@@ -1,0 +1,25 @@
+version: '3'
+services:
+  challenge:
+    build: ./challenge/web
+    ports:
+      - 8005:80
+    restart: always
+    links:
+      - mysql
+  mysql:
+    build: ./challenge/db
+    environment:
+      MYSQL_RANDOM_ROOT_PASSWORD: "yes"
+    restart: always
+  worker:
+    build: ./challenge/worker
+    links:
+      - challenge
+      - redis
+  redis:
+    image: redis:5
+    command: "redis-server /redis.conf"
+    volumes:
+      - "${PWD}/challenge/redis/redis.conf:/redis.conf"
+    restart: always

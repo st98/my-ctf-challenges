@@ -1,0 +1,30 @@
+body {
+  width: 100%;
+  max-width: 40rem;
+  margin: 1rem auto;
+}
+
+body, input, button, select {
+  font-family: Consolas, monospace;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.hidden {
+  display: none;
+}
+
+.info {
+  padding: .5rem 1rem;
+  border: 2px solid #76a6f2;
+}
+
+a {
+  text-decoration: none;
+}

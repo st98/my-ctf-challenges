@@ -1,0 +1,11 @@
+version: '3'
+services:
+  phpnantokaadmin:
+    build:
+      context: .
+    container_name: phpnantokaadmin
+    ulimits:
+      nproc: 65535
+      core: 0
+    ports:
+      - "8002:80"
