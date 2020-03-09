@@ -2,6 +2,9 @@
 Challenges I created for CTFs
 
 ## Table of contents
+- [Harekaze CTF 2018](#harekaze-ctf-2018)
+- [Harekaze CTF 2019](#harekaze-ctf-2019)
+- [zer0pts CTF 2020](#zer0pts-ctf-2020)
 
 ## [Harekaze CTF 2018](harekaze-ctf-2018/README.md)
 
