@@ -23,6 +23,7 @@
 - (ko) [Zer0pts CTF 2020](https://blog.rwx.kr/zer0pts-CTF-2020/#653pts-MusicBlog-2nd-solve) by posix
 - (ko) [Zer0pts 2020 Write up | jhyeon](https://blog.jhyeon.xyz/ctf,%20writeup/2020/03/09/zer0ctf/#web-music-blog653-pt)
 - (ko) [zer0pts CTF 2020](https://www.notion.so/zer0pts-CTF-2020-1a06b72016434b6aa986a6fd71a8be1a) by CyKor
+- (ko) [JeonYoungSin :: Zer0pts CTF 2020 Writeup](https://jeonyoungsin.tistory.com/1102)
 - (zh-tw) [CTF/zer0pts2020/MusicBlog at master · w181496/CTF](https://github.com/w181496/CTF/tree/master/zer0pts2020/MusicBlog)
 
 ## Flag
