@@ -25,6 +25,7 @@
 - (ko) [Zer0pts 2020 Write up | jhyeon](https://blog.jhyeon.xyz/ctf,%20writeup/2020/03/09/zer0ctf/#web-music-blog653-pt)
 - (ko) [zer0pts CTF 2020](https://www.notion.so/zer0pts-CTF-2020-1a06b72016434b6aa986a6fd71a8be1a) by CyKor
 - (ko) [JeonYoungSin :: Zer0pts CTF 2020 Writeup](https://jeonyoungsin.tistory.com/1102)
+- (zh-cn) [🇯🇵zer0pts CTF 2020 Writeup - 颖奇L'Amore - 专注网络安全与渗透测试](https://www.gem-love.com/ctf/1898.html#MusicBlog_653pt)
 - (zh-tw) [CTF/zer0pts2020/MusicBlog at master · w181496/CTF](https://github.com/w181496/CTF/tree/master/zer0pts2020/MusicBlog)
 
 ## Flag

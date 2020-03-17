@@ -26,6 +26,7 @@
 - (ko) [Zer0pts CTF 2020](https://blog.rwx.kr/zer0pts-CTF-2020/#345pts-Can-you-guess-it-2nd-solve) by posix
 - (ko) [Zer0pts 2020 Write up | jhyeon](https://blog.jhyeon.xyz/ctf,%20writeup/2020/03/09/zer0ctf/#web-can-you-guess-it338-pt)
 - (ko) [JeonYoungSin :: Zer0pts CTF 2020 Writeup](https://jeonyoungsin.tistory.com/1102)
+- (zh-cn) [🇯🇵zer0pts CTF 2020 Writeup - 颖奇L'Amore - 专注网络安全与渗透测试](https://www.gem-love.com/ctf/1898.html#Can_you_guess_it_338pt)
 - (zh-tw) [CTF/zer0pts2020/can_you_guess_it at master · w181496/CTF](https://github.com/w181496/CTF/tree/master/zer0pts2020/can_you_guess_it)
 
 ## Flag
