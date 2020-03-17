@@ -19,6 +19,14 @@ CTFtime link: https://ctftime.org/event/549
 |[15 Puzzle](harekaze-ctf-2018/15Puzzle/)|Rev|200|44|[想定解法](https://st98.github.io/diary/posts/2018-02-23-harekaze-ctf-2018.html#rev-200-15-puzzle)|
 |[Logger](harekaze-ctf-2018/Logger/)|Rev+Net|200|21|[想定解法](https://st98.github.io/diary/posts/2018-02-23-harekaze-ctf-2018.html#rev--net-200-logger)|
 
+### Unpublished challenges
+
+Sadly, there is an unpublished challenge.
+
+|Name|Category|Points|Solution|
+|---|---|---|---|
+|[`[$0-z{}]|[^\\]`](harekaze-ctf-2018/0-z/)|Web|150|[Solution (en, ja)](harekaze-ctf-2018/0-z/)|
+
 ## [Harekaze CTF 2019](harekaze-ctf-2019/README.md)
 
 724 teams registered, and 523 teams got at least 10 points.
