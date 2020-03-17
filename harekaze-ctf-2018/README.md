@@ -10,3 +10,11 @@ CTFtime link: https://ctftime.org/event/549
 |[Sokosoko Secure Uploader](SokosokoSecureUploader/)|Web|100|57|[想定解法](https://st98.github.io/diary/posts/2018-02-23-harekaze-ctf-2018.html#web-100-sokosoko-secure-uploader)|
 |[15 Puzzle](15Puzzle/)|Rev|200|44|[想定解法](https://st98.github.io/diary/posts/2018-02-23-harekaze-ctf-2018.html#rev-200-15-puzzle)|
 |[Logger](Logger/)|Rev+Net|200|21|[想定解法](https://st98.github.io/diary/posts/2018-02-23-harekaze-ctf-2018.html#rev--net-200-logger)|
+
+### Unpublished challenges
+
+Sadly, there is an unpublished challenge.
+
+|Name|Category|Points|Solution|
+|---|---|---|---|
+|[0-z](0-z/)|Web|150|[Solution (en, ja)](0-z/)|

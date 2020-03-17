@@ -25,7 +25,7 @@ Sadly, there is an unpublished challenge.
 
 |Name|Category|Points|Solution|
 |---|---|---|---|
-|[`[$0-z{}]|[^\\]`](harekaze-ctf-2018/0-z/)|Web|150|[Solution (en, ja)](harekaze-ctf-2018/0-z/)|
+|[0-z](harekaze-ctf-2018/0-z/)|Web|150|[Solution (en, ja)](harekaze-ctf-2018/0-z/)|
 
 ## [Harekaze CTF 2019](harekaze-ctf-2019/README.md)
 

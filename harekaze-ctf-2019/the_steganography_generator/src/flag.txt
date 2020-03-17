@@ -1,0 +1,1 @@
+HarekazeCTF{the_building_in_the_picture_is_nagoya_castle}

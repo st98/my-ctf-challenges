@@ -1,0 +1,6 @@
+IP address	Port	Name	Container	Note
+192.168.99.1	-	victim	(chrome)	(Wireshark で下記の 2 IP のみ収集、Chrome でフラグの入力を行う)
+192.168.99.100	80	blog	(php/apache)	http://192.168.99.100 (特別な操作必要なし)
+192.168.99.101	7467	attacker(node)		ws://192.168.99.101:7467 
+---
+irizaki_mei / HarekazeCTF{7r1663r_h4ppy_61rl}
