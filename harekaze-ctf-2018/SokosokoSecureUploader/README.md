@@ -8,3 +8,8 @@ I encrypted my file by using [this service](server/). Attachment is the encrypte
 
 - [src.zip](attachments/src.zip)
 - [flag.png.encrypted](attachments/flag.png.encrypted)
+
+## Flag
+```
+HarekazeCTF{k41k4n_j1kk4n_j1n615uk4n}
+```

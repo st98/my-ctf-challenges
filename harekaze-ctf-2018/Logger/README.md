@@ -7,3 +7,8 @@ Someone stole my password … (´・ω・｀)
 ## Attachments
 
 - [logger.pcap](attachments/logger.pcap)
+
+## Flag
+```
+HarekazeCTF{7r1663r_h4ppy_61rl}
+```
