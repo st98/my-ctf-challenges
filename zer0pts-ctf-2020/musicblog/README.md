@@ -20,6 +20,7 @@
 ## Writeups
 - (en) [CTFtime.org / zer0pts CTF 2020 / MusicBlog / Writeup](https://ctftime.org/writeup/18604) by Pwnasonic
 - (en) [ctf-writeups/2020/zer0pts-2020/MusicBlog at master · perfectblue/ctf-writeups](https://github.com/perfectblue/ctf-writeups/tree/master/2020/zer0pts-2020/MusicBlog)
+- [Web](https://balsn.tw/ctf_writeup/20200307-zer0ptsctf/#musicblog) by Balsn
 - (ko) [Zer0pts CTF 2020](https://blog.rwx.kr/zer0pts-CTF-2020/#653pts-MusicBlog-2nd-solve) by posix
 - (ko) [Zer0pts 2020 Write up | jhyeon](https://blog.jhyeon.xyz/ctf,%20writeup/2020/03/09/zer0ctf/#web-music-blog653-pt)
 - (ko) [zer0pts CTF 2020](https://www.notion.so/zer0pts-CTF-2020-1a06b72016434b6aa986a6fd71a8be1a) by CyKor
