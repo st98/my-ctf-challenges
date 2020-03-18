@@ -12,20 +12,20 @@ Challenges I created for CTFs
 
 CTFtime link: https://ctftime.org/event/549
 
-|Name|Category|Points|Solves|Solution (ja)|
-|---|---|---|---|---|
-|[Obfuscated Password Checker](harekaze-ctf-2018/ObfuscatedPasswordChecker/)|Web|50|112|[想定解法](https://st98.github.io/diary/posts/2018-02-23-harekaze-ctf-2018.html#web-50-obfuscated-password-checker)|
-|[Sokosoko Secure Uploader](harekaze-ctf-2018/SokosokoSecureUploader/)|Web|100|57|[想定解法](https://st98.github.io/diary/posts/2018-02-23-harekaze-ctf-2018.html#web-100-sokosoko-secure-uploader)|
-|[15 Puzzle](harekaze-ctf-2018/15Puzzle/)|Rev|200|44|[想定解法](https://st98.github.io/diary/posts/2018-02-23-harekaze-ctf-2018.html#rev-200-15-puzzle)|
-|[Logger](harekaze-ctf-2018/Logger/)|Rev+Net|200|21|[想定解法](https://st98.github.io/diary/posts/2018-02-23-harekaze-ctf-2018.html#rev--net-200-logger)|
+|Name|Category|Estimated Difficulty|Points|Solves|Solution (ja)|
+|---|---|---|---|---|---|
+|[Obfuscated Password Checker](harekaze-ctf-2018/ObfuscatedPasswordChecker/)|Web|easy|50|112|[想定解法](https://st98.github.io/diary/posts/2018-02-23-harekaze-ctf-2018.html#web-50-obfuscated-password-checker)|
+|[Sokosoko Secure Uploader](harekaze-ctf-2018/SokosokoSecureUploader/)|Web|easy|100|57|[想定解法](https://st98.github.io/diary/posts/2018-02-23-harekaze-ctf-2018.html#web-100-sokosoko-secure-uploader)|
+|[15 Puzzle](harekaze-ctf-2018/15Puzzle/)|Rev|easy|200|44|[想定解法](https://st98.github.io/diary/posts/2018-02-23-harekaze-ctf-2018.html#rev-200-15-puzzle)|
+|[Logger](harekaze-ctf-2018/Logger/)|Rev+Net|medium|200|21|[想定解法](https://st98.github.io/diary/posts/2018-02-23-harekaze-ctf-2018.html#rev--net-200-logger)|
 
 ### Unpublished challenges
 
 Sadly, there is an unpublished challenge.
 
-|Name|Category|Points|Solution|
-|---|---|---|---|
-|[0-z](harekaze-ctf-2018/0-z/)|Web|150|[Solution (en, ja)](harekaze-ctf-2018/0-z/)|
+|Name|Estimated Difficulty|Category|Points|Solution|
+|---|---|---|---|---|
+|[0-z](harekaze-ctf-2018/0-z/)|Web|medium|150|[Solution (en, ja)](harekaze-ctf-2018/0-z/)|
 
 ## [Harekaze CTF 2019](harekaze-ctf-2019/README.md)
 
@@ -33,17 +33,17 @@ Sadly, there is an unpublished challenge.
 
 CTFtime link: https://ctftime.org/event/789
 
-|Name|Category|Points|Solves|Solver|Solution (ja)|
-|----|--------|------|------|------|-------------|
-|[scramble](harekaze-ctf-2019/scramble/README.md)|Reversing|100|68|[solver.py](harekaze-ctf-2019/scramble/solver/solver.py)|[想定解法](https://st98.github.io/diary/posts/2019-05-21-harekaze-ctf-2019.html#reversing-100-scramble)|
-|[The Steganography Generator](harekaze-ctf-2019/the_steganography_generator/README.md)|Reversing|200|10|[solver.py](harekaze-ctf-2019/the_steganography_generator/solver/solver.py)|[想定解法](https://st98.github.io/diary/posts/2019-05-21-harekaze-ctf-2019.html#reversing-200-the-steganography-generator)|
-|[Admin's Product key](harekaze-ctf-2019/admins_product_key/README.md)|Reversing|200|8|[solver1.py](harekaze-ctf-2019/admins_product_key/solver/solver1.py) (static analysis), [solver2.py](harekaze-ctf-2019/admins_product_key/solver/solver2.py) (dynamic analysis)|[想定解法](https://st98.github.io/diary/posts/2019-05-21-harekaze-ctf-2019.html#reversing-200-admins-product-key)|
-|[Encode & Encode](harekaze-ctf-2019/encode_and_encode/README.md)|Web|100|54|-|[想定解法](https://st98.github.io/diary/posts/2019-05-21-harekaze-ctf-2019.html#web-100-encode--encode)|
-|[Easy Notes](harekaze-ctf-2019/easy_notes/README.md)|Web|200|10|[solver.py](harekaze-ctf-2019/easy_notes/solver/solver.py)|[想定解法](https://st98.github.io/diary/posts/2019-05-21-harekaze-ctf-2019.html#web-200-easy-notes)|
-|[SQLite Voting](harekaze-ctf-2019/sqlite_voting/README.md)|Web|350|3|[solver.py](harekaze-ctf-2019/sqlite_voting/solver/solver.py)|[想定解法](https://st98.github.io/diary/posts/2019-05-21-harekaze-ctf-2019.html#web-350-sqlite-voting)|
-|[Avatar Uploader 1](harekaze-ctf-2019/avatar_uploader_1/README.md)|Misc|100|52|[solver.png](harekaze-ctf-2019/avatar_uploader_1/solver/solver.png)|[想定解法](https://st98.github.io/diary/posts/2019-05-21-harekaze-ctf-2019.html#misc-100-avatar-uploader-1)|
-|[Avatar Uploader 2](harekaze-ctf-2019/avatar_uploader_2/README.md)|Web|300|11|[solver.py](harekaze-ctf-2019/avatar_uploader_2/solver/solver.py)|[想定解法](https://st98.github.io/diary/posts/2019-05-21-harekaze-ctf-2019.html#web-300-avatar-uploader-2)|
-|[[a-z().]](harekaze-ctf-2019/a-z/README.md)|Misc|200|36|-|[想定解法](https://st98.github.io/diary/posts/2019-05-21-harekaze-ctf-2019.html#misc-200-a-z)|
+|Name|Category|Estimated Difficulty|Points|Solves|Solver|Solution (ja)|
+|----|--------|--------------------|------|------|------|-------------|
+|[scramble](harekaze-ctf-2019/scramble/README.md)|Reversing|warmup|100|68|[solver.py](harekaze-ctf-2019/scramble/solver/solver.py)|[想定解法](https://st98.github.io/diary/posts/2019-05-21-harekaze-ctf-2019.html#reversing-100-scramble)|
+|[The Steganography Generator](harekaze-ctf-2019/the_steganography_generator/README.md)|Reversing|easy|200|10|[solver.py](harekaze-ctf-2019/the_steganography_generator/solver/solver.py)|[想定解法](https://st98.github.io/diary/posts/2019-05-21-harekaze-ctf-2019.html#reversing-200-the-steganography-generator)|
+|[Admin's Product key](harekaze-ctf-2019/admins_product_key/README.md)|Reversing|easy|200|8|[solver1.py](harekaze-ctf-2019/admins_product_key/solver/solver1.py) (static analysis), [solver2.py](harekaze-ctf-2019/admins_product_key/solver/solver2.py) (dynamic analysis)|[想定解法](https://st98.github.io/diary/posts/2019-05-21-harekaze-ctf-2019.html#reversing-200-admins-product-key)|
+|[Encode & Encode](harekaze-ctf-2019/encode_and_encode/README.md)|Web|warmup|100|54|-|[想定解法](https://st98.github.io/diary/posts/2019-05-21-harekaze-ctf-2019.html#web-100-encode--encode)|
+|[Easy Notes](harekaze-ctf-2019/easy_notes/README.md)|Web|easy|200|10|[solver.py](harekaze-ctf-2019/easy_notes/solver/solver.py)|[想定解法](https://st98.github.io/diary/posts/2019-05-21-harekaze-ctf-2019.html#web-200-easy-notes)|
+|[SQLite Voting](harekaze-ctf-2019/sqlite_voting/README.md)|Web|medium|350|3|[solver.py](harekaze-ctf-2019/sqlite_voting/solver/solver.py)|[想定解法](https://st98.github.io/diary/posts/2019-05-21-harekaze-ctf-2019.html#web-350-sqlite-voting)|
+|[Avatar Uploader 1](harekaze-ctf-2019/avatar_uploader_1/README.md)|Misc|warmup|100|52|[solver.png](harekaze-ctf-2019/avatar_uploader_1/solver/solver.png)|[想定解法](https://st98.github.io/diary/posts/2019-05-21-harekaze-ctf-2019.html#misc-100-avatar-uploader-1)|
+|[Avatar Uploader 2](harekaze-ctf-2019/avatar_uploader_2/README.md)|Web|medium|300|11|[solver.py](harekaze-ctf-2019/avatar_uploader_2/solver/solver.py)|[想定解法](https://st98.github.io/diary/posts/2019-05-21-harekaze-ctf-2019.html#web-300-avatar-uploader-2)|
+|[[a-z().]](harekaze-ctf-2019/a-z/README.md)|Misc|easy|200|36|-|[想定解法](https://st98.github.io/diary/posts/2019-05-21-harekaze-ctf-2019.html#misc-200-a-z)|
 
 ## [zer0pts CTF 2020](zer0pts-ctf-2020/README.md)
 
