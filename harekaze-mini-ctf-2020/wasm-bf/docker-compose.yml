@@ -1,0 +1,11 @@
+version: '3'
+services:
+  wasm-bf:
+    build:
+      context: challenge/
+    container_name: wasm-bf
+    ulimits:
+      nproc: 65535
+      core: 0
+    ports:
+      - "8004:80"

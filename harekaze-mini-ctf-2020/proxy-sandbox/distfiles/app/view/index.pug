@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  h1= title
+  p I think <code>Proxy</code> can be used for protecting secrets. Can you get the flag?
+  a(href='/source') source
+  h2 Code
+  form(action='/', method='get')
+    textarea(type='text', name='code', cols=40, rows=5, placeholder='7*7')
+    br
+    input(type='submit', value='run')
+  h2 Output
+  output #{output}

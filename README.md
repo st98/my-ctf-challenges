@@ -56,3 +56,17 @@ CTFtime link: https://ctftime.org/event/1006
 |[Can you guess it?](zer0pts-ctf-2020/can_you_guess_it/README.md)|Web|warmup|338|44|[English](https://hackmd.io/@st98/rkFnKLZrI), [Japanese](https://st98.github.io/diary/posts/2020-03-09-zer0pts-ctf-2020.html#web-338-can-you-guess-it)|
 |[MusicBlog](zer0pts-ctf-2020/musicblog/README.md)|Web|medium|653|13|[English](https://hackmd.io/@st98/Hy1PrPWBI), [Japanese](https://st98.github.io/diary/posts/2020-03-09-zer0pts-ctf-2020.html#web-653-musicblog)|
 |[phpNantokaAdmin](zer0pts-ctf-2020/phpnantokaadmin/README.md)|Web|medium|755|8|[English](https://hackmd.io/@st98/HJVlqUZrI), [Japanese](https://st98.github.io/diary/posts/2020-03-09-zer0pts-ctf-2020.html#web-755-phpnantokaadmin)|
+
+# [Harekaze mini CTF 2020](harekaze-mini-ctf-2020/README.md)
+
+175 teams registered, and 141 teams got at least 1 points.
+
+|Name|Genre|Estimated Difficulty|Points|Solves|Solution|
+|----|-----|--------------------|------|------|--------|
+|[Easy Flag Checker](harekaze-mini-ctf-2020/easy-flag-checker/)|Reversing|warmup|130|55|[Japanese](https://st98.github.io/diary/posts/2020-12-29-harekaze-mini-ctf-2020.html#reversing-130-easy-flag-checker-55-solves)|
+|[Tiny Flag Checker](harekaze-mini-ctf-2020/tiny-flag-checker/)|Reversing|medium|193|23|[Japanese](https://st98.github.io/diary/posts/2020-12-29-harekaze-mini-ctf-2020.html#reversing-193-tiny-flag-checker-23-solves)|
+|[What time is it now?](harekaze-mini-ctf-2020/what-time-is-it-now/)|Web|warmup|123|63|[Japanese](https://st98.github.io/diary/posts/2020-12-29-harekaze-mini-ctf-2020.html#web-123-what-time-is-it-now-63-solves)|
+|[JWT is secure](harekaze-mini-ctf-2020/jwt-is-secure/)|Web|easy|210|19|[Japanese](https://st98.github.io/diary/posts/2020-12-29-harekaze-mini-ctf-2020.html#web-210-jwt-is-secure-19-solves)|
+|[Avatar Viewer](harekaze-mini-ctf-2020/avatar-viewer/)|Web|medium|305|8|[Japanese](https://st98.github.io/diary/posts/2020-12-29-harekaze-mini-ctf-2020.html#web-305-avatar-viewer-8-solves)|
+|[WASM BF](harekaze-mini-ctf-2020/wasm-bf/)|Web|medium-hard|322|7|[Japanese](https://st98.github.io/diary/posts/2020-12-29-harekaze-mini-ctf-2020.html#web-322-wasm-bf-7-solves)|
+|[Proxy Sandbox](harekaze-mini-ctf-2020/proxy-sandbox/)|Misc|medium-hard|322|7|[Japanese](https://st98.github.io/diary/posts/2020-12-29-harekaze-mini-ctf-2020.html#misc-322-proxy-sandbox-7-solves)|

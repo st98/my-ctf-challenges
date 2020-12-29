@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>WASM BF</title>
+</head>
+<body>
+  <h1>WASM BF</h1>
+  <p>Now it is the era of WebAssembly. To learn WebAssembly, I wrote a Brainf*ck interpreter in C and compiled to wasm.</p>
+  <ul>
+    <li><a href="main.c">Source Code</a></li>
+    <li><a href="report.php">Report vulnerability?</a></li>
+    <li><a href="#-[------->+<]>-.-[->+++++<]>++.+++++++..+++.[->+++++<]>+.------------.--[->++++<]>-.--------.+++.------.--------.-[--->+<]>.">Example 1 (<code>Hello, world!</code>)</a></li>
+    <li><a href="#----[---->+<]>---.--[->++<]>-.[->+++++<]>-.[->++++++<]>.+++[->+++<]>.[--->+<]>----.+.[-->+<]>++.-------------.-[--->++<]>-.[->+++++<]>-.">Example 2 (<code>&lt;s&gttest&lt;/s&gt</code>)</a></li>
+  </ul>
+  <h2>Edit</h2>
+  <div>
+    <textarea id="edit" rows="8" cols="40">-[------->+<]>-.-[->+++++<]>++.+++++++..+++.[->+++++<]>+.------------.--[->++++<]>-.--------.+++.------.--------.-[--->+<]>.</textarea>
+  </div>
+  <button id="execute">Execute</button>
+  <button id="share">Share</button>
+  <h2>Output</h2>
+  <output id="output"></output>
+  <script src="main.js"></script>
+</body>
+</html>

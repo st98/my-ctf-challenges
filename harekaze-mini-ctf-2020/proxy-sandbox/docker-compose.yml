@@ -1,0 +1,11 @@
+version: '3'
+services:
+  proxy-sandbox:
+    build:
+      context: challenge/
+    container_name: proxy-sandbox
+    ulimits:
+      nproc: 65535
+      core: 0
+    ports:
+      - "8006:3000"

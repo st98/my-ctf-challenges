@@ -1,0 +1,11 @@
+version: '3'
+services:
+  jwt-is-secure:
+    build:
+      context: challenge/
+    container_name: jwt-is-secure
+    ulimits:
+      nproc: 65535
+      core: 0
+    ports:
+      - "8001:80"

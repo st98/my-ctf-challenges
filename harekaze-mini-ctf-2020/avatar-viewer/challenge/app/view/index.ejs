@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Avatar Viewer</title>
+    <link rel="stylesheet" href="/static/style.css">
+  </head>
+  <body>
+    <header>
+      <h1>Avatar Viewer</h1>
+      <nav class="navbar">
+        <ul class="mr-auto">
+          <li><a href="/">Home</a></li>
+<% if (username) { %>
+          <li><a href="/profile">Profile</a></li>
+          <li><a href="/admin">Admin</a></li>
+          <li><a href="/logout">Log out</a></li>
+<% } else { %>
+          <li><a href="/login">Log in</a></li>
+<% } %>
+        </ul>
+      </nav>
+    </header>
+<% if (flash && flash.error) { %>
+    <div class="error"><%- flash.error[0] %></div>
+<% } %>
+    <main>
+<%- include(page); %>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,20 @@
+{
+  "name": "avatar-viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "fastify": "^3.8.0",
+    "fastify-flash": "^2.0.2",
+    "fastify-formbody": "^5.0.0",
+    "fastify-secure-session": "^2.3.0",
+    "fastify-static": "^3.3.0",
+    "point-of-view": "^4.6.0"
+  }
+}
