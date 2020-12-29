@@ -5,6 +5,7 @@ Challenges I created for CTFs
 - [Harekaze CTF 2018](#harekaze-ctf-2018)
 - [Harekaze CTF 2019](#harekaze-ctf-2019)
 - [zer0pts CTF 2020](#zer0pts-ctf-2020)
+- [Harekaze mini CTF 2020](#harekaze-mini-ctf-2020)
 
 ## [Harekaze CTF 2018](harekaze-ctf-2018/README.md)
 
@@ -57,7 +58,7 @@ CTFtime link: https://ctftime.org/event/1006
 |[MusicBlog](zer0pts-ctf-2020/musicblog/README.md)|Web|medium|653|13|[English](https://hackmd.io/@st98/Hy1PrPWBI), [Japanese](https://st98.github.io/diary/posts/2020-03-09-zer0pts-ctf-2020.html#web-653-musicblog)|
 |[phpNantokaAdmin](zer0pts-ctf-2020/phpnantokaadmin/README.md)|Web|medium|755|8|[English](https://hackmd.io/@st98/HJVlqUZrI), [Japanese](https://st98.github.io/diary/posts/2020-03-09-zer0pts-ctf-2020.html#web-755-phpnantokaadmin)|
 
-# [Harekaze mini CTF 2020](harekaze-mini-ctf-2020/README.md)
+## [Harekaze mini CTF 2020](harekaze-mini-ctf-2020/README.md)
 
 175 teams registered, and 141 teams got at least 1 points.
 
