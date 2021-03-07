@@ -1,4 +1,4 @@
-# zer0pts CTF 2020
+# zer0pts CTF 2021
 
 1447 teams registered, and 951 teams got at least 50 points.
 
