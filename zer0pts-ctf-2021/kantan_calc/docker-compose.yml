@@ -1,0 +1,7 @@
+version: "3"
+services:
+  kantan_calc:
+    build:
+      context: .
+    ports:
+      - 8002:3000

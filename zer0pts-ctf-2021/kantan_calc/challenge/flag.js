@@ -1,0 +1,1 @@
+module.exports = 'zer0pts{K4nt4n_m34ns_4dm1r4t1on_1n_J4p4n3s3}';

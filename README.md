@@ -6,6 +6,7 @@ Challenges I created for CTFs
 - [Harekaze CTF 2019](#harekaze-ctf-2019)
 - [zer0pts CTF 2020](#zer0pts-ctf-2020)
 - [Harekaze mini CTF 2020](#harekaze-mini-ctf-2020)
+- [zer0pts CTF 2021](#zer0pts-ctf-2021)
 
 ## [Harekaze CTF 2018](harekaze-ctf-2018/README.md)
 
@@ -71,3 +72,12 @@ CTFtime link: https://ctftime.org/event/1006
 |[Avatar Viewer](harekaze-mini-ctf-2020/avatar-viewer/)|Web|medium|305|8|[Japanese](https://st98.github.io/diary/posts/2020-12-29-harekaze-mini-ctf-2020.html#web-305-avatar-viewer-8-solves)|
 |[WASM BF](harekaze-mini-ctf-2020/wasm-bf/)|Web|medium-hard|322|7|[Japanese](https://st98.github.io/diary/posts/2020-12-29-harekaze-mini-ctf-2020.html#web-322-wasm-bf-7-solves)|
 |[Proxy Sandbox](harekaze-mini-ctf-2020/proxy-sandbox/)|Misc|medium-hard|322|7|[Japanese](https://st98.github.io/diary/posts/2020-12-29-harekaze-mini-ctf-2020.html#misc-322-proxy-sandbox-7-solves)|
+
+## [zer0pts CTF 2021](zer0pts-ctf-2021/README.md)
+
+1447 teams registered, and 951 teams got at least 50 points.
+
+|Name|Genre|Estimated Difficulty|Points|Solves|Solution|
+|----|-----|--------------------|------|------|--------|
+|[Kantan Calc](zer0pts-ctf-2021/kantan_calc/)|Web|easy-medium|135|50|[English](https://hackmd.io/@st98/Sy7D5NymO), [Japanese](https://st98.github.io/diary/posts/2021-03-07-zer0pts-ctf-2021.html#web-135-kantan-calc-50-solves)|
+|[Simple Blog](zer0pts-ctf-2021/simple_blog/)|Web|medium-hard|192|23|[English](https://hackmd.io/@st98/S1z9qV1X_), [Japanese](https://st98.github.io/diary/posts/2021-03-07-zer0pts-ctf-2021.html#web-192-simple-blog-23-solves)|

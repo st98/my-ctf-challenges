@@ -1,0 +1,5 @@
+version: "3"
+services:
+  solve_kantan_calc:
+    build:
+      context: .
