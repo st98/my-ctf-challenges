@@ -1,11 +1,10 @@
 # zer0pts CTF 2020
 
-811 teams registered, and 432 teams got at least 1 points.
+1447 teams registered, and 951 teams got at least 50 points.
 
-CTFtime link: https://ctftime.org/event/1006
+CTFtime link: https://ctftime.org/event/1256
 
-|Name|Category|Estimated Difficulty|Points|Solves|Solution|
-|----|--------|--------------------|------|------|--------|
-|[Can you guess it?](can_you_guess_it/README.md)|Web|warmup|338|44|[English](https://hackmd.io/@st98/rkFnKLZrI), [Japanese](https://st98.github.io/diary/posts/2020-03-09-zer0pts-ctf-2020.html#web-338-can-you-guess-it)|
-|[MusicBlog](musicblog/README.md)|Web|medium|653|13|[English](https://hackmd.io/@st98/Hy1PrPWBI), [Japanese](https://st98.github.io/diary/posts/2020-03-09-zer0pts-ctf-2020.html#web-653-musicblog)|
-|[phpNantokaAdmin](phpnantokaadmin/README.md)|Web|medium|755|8|[English](https://hackmd.io/@st98/HJVlqUZrI), [Japanese](https://st98.github.io/diary/posts/2020-03-09-zer0pts-ctf-2020.html#web-755-phpnantokaadmin)|
+|Name|Genre|Estimated Difficulty|Points|Solves|Solution|
+|----|-----|--------------------|------|------|--------|
+|[Kantan Calc](kantan_calc/)|Web|easy-medium|135|50|[English](https://hackmd.io/@st98/Sy7D5NymO), [Japanese](https://st98.github.io/diary/posts/2021-03-07-zer0pts-ctf-2021.html#web-135-kantan-calc-50-solves)|
+|[Simple Blog](simple_blog/)|Web|medium-hard|192|23|[English](https://hackmd.io/@st98/S1z9qV1X_), [Japanese](https://st98.github.io/diary/posts/2021-03-07-zer0pts-ctf-2021.html#web-192-simple-blog-23-solves)|

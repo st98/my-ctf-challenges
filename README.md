@@ -77,6 +77,8 @@ CTFtime link: https://ctftime.org/event/1006
 
 1447 teams registered, and 951 teams got at least 50 points.
 
+CTFtime link: https://ctftime.org/event/1256
+
 |Name|Genre|Estimated Difficulty|Points|Solves|Solution|
 |----|-----|--------------------|------|------|--------|
 |[Kantan Calc](zer0pts-ctf-2021/kantan_calc/)|Web|easy-medium|135|50|[English](https://hackmd.io/@st98/Sy7D5NymO), [Japanese](https://st98.github.io/diary/posts/2021-03-07-zer0pts-ctf-2021.html#web-135-kantan-calc-50-solves)|
