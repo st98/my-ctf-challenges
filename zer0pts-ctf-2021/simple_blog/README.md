@@ -16,6 +16,7 @@ Now I am developing a blog service. I’m aware that there is a simple XSS. Howe
 - (en) [zer0pts CTF 2021 - Simple Blog · Issue #21 · aszx87410/ctf-writeups](https://github.com/aszx87410/ctf-writeups/issues/21)
 - (en) [Zer0ptsCTF - Web Exploitation | Jimmy Li](https://blog.jimmyli.us/articles/2021-03/Zer0ptsCTF-WebExploitation#simple-blog)
 - (ja) [Tweet by @arkark_](https://twitter.com/arkark_/status/1368542618854985731)
+- (ja) [zer0pts CTF 2021 writeup (3 web challs) | XS-Spin Blog](https://blog.arkark.dev/2021/03/08/zer0pts-ctf/#web-Simple-Blog)
 
 ## Flag
 ```
