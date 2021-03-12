@@ -17,6 +17,7 @@ Now I am developing a blog service. I’m aware that there is a simple XSS. Howe
 - (en) [Zer0ptsCTF - Web Exploitation | Jimmy Li](https://blog.jimmyli.us/articles/2021-03/Zer0ptsCTF-WebExploitation#simple-blog)
 - (ja) [Tweet by @arkark_](https://twitter.com/arkark_/status/1368542618854985731)
 - (ja) [zer0pts CTF 2021 writeup (3 web challs) | XS-Spin Blog](https://blog.arkark.dev/2021/03/08/zer0pts-ctf/#web-Simple-Blog)
+- (ja) [zer0pts CTF 2021 writeup (OT OR NOT OT, Not Mordell Primes, Tokyo Network, Simple Blog, PDF Generator) - 博多電光](https://hakatashi.hatenadiary.com/entry/2021/03/10/225857)
 
 ## Flag
 ```
