@@ -1,0 +1,20 @@
+version: '3'
+services:
+  challenge:
+    build: ./challenge/web
+    env_file: ./conf.env
+    ports:
+      - 8080:5000
+    links:
+      - redis
+    restart: always
+  worker:
+    build: ./challenge/worker
+    env_file: ./conf.env
+    links:
+      - challenge
+      - redis
+    restart: always
+  redis:
+    build: ./challenge/redis
+    restart: always

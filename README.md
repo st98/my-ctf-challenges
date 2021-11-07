@@ -83,3 +83,13 @@ CTFtime link: https://ctftime.org/event/1256
 |----|-----|--------------------|------|------|--------|
 |[Kantan Calc](zer0pts-ctf-2021/kantan_calc/)|Web|easy-medium|135|50|[English](https://hackmd.io/@st98/Sy7D5NymO), [Japanese](https://st98.github.io/diary/posts/2021-03-07-zer0pts-ctf-2021.html#web-135-kantan-calc-50-solves)|
 |[Simple Blog](zer0pts-ctf-2021/simple_blog/)|Web|medium-hard|192|23|[English](https://hackmd.io/@st98/S1z9qV1X_), [Japanese](https://st98.github.io/diary/posts/2021-03-07-zer0pts-ctf-2021.html#web-192-simple-blog-23-solves)|
+
+## [BSides Ahmedabad CTF 2021](bsides-ahmedabad-ctf-2021/README.md)
+
+314 teams got at least 66 points.
+
+CTFtime link: https://ctftime.org/event/1466
+
+|Name|Genre|Estimated Difficulty|Points|Solves|Solution|
+|----|-----|--------------------|------|------|--------|
+|[Roda](bsides-ahmedabad-ctf-2021/roda/)|Web|easy|200|21|[English](https://hackmd.io/@st98/By9ZkjNDK), [Japanese](https://st98.github.io/diary/posts/2021-11-07-bsides-ahmedabad-ctf-2021.html#web-200-roda-21-solves)|
