@@ -7,6 +7,7 @@ Challenges I created for CTFs
 - [zer0pts CTF 2020](#zer0pts-ctf-2020)
 - [Harekaze mini CTF 2020](#harekaze-mini-ctf-2020)
 - [zer0pts CTF 2021](#zer0pts-ctf-2021)
+- [BSides Ahmedabad CTF 2021](#bsides-ahmedabad-ctf-2021)
 
 ## [Harekaze CTF 2018](harekaze-ctf-2018/README.md)
 
