@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Let's read wasm</title>
+  <style>
+    body {
+      width: 800px;
+      margin: 0 auto;
+      background: #222;
+      color: #bbb;
+      text-align: center;
+      font-size: 24px;
+    }
+    input, button {
+      background: #111;
+      color: #bbb;
+      border: 2px solid #555;
+      font-size: 24px;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Let's read wasm</h1>
+    <p>The form below checks whether your input is the flag or not. The check routine works with WebAssembly.</p>
+    <hr>
+    <label>Input flag: <input type="text" id="flag" placeholder="HarekazeCTF{...}" maxlength="64"></label>
+    <button id="check">Check!</button>
+  </main>
+  <script>
+    (async () => {
+      const response = await fetch('module.wasm');
+      const bytes = await response.arrayBuffer();
+      const { instance } = await WebAssembly.instantiate(bytes, {});
+      const buffer = new Uint8Array(instance.exports.memory.buffer);
+
+      function check(flag) {
+        for (let i = 0; i < 64; i++) {
+          buffer[i] = 0;
+        }
+
+        const textEncoder = new TextEncoder();
+        const s = textEncoder.encode(flag);
+        for (let i = 0; i < s.length; i++) {
+          buffer[i] = s[i];
+        }
+
+        return instance.exports.check();
+      }
+
+      const button = document.getElementById('check');
+      const input = document.getElementById('flag');
+      button.addEventListener('click', () => {
+        if (check(input.value)) {
+          alert(`Congratulations! The flag is: ${input.value}`);
+        } else {
+          alert('Wrong...');
+        }
+      }, false);
+    })();
+  </script>
+</body>
+</html>

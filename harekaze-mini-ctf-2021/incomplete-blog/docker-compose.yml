@@ -1,0 +1,11 @@
+version: '3'
+services:
+  incomplete-blog:
+    build:
+      context: challenge/
+    container_name: incomplete-blog
+    ulimits:
+      nproc: 65535
+      core: 0
+    ports:
+      - "8001:3000"

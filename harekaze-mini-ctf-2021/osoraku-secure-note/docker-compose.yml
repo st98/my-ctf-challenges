@@ -1,0 +1,26 @@
+version: '3'
+services:
+  challenge:
+    build: ./challenge/server
+    environment:
+      RECAPTCHA_ENABLED: "true"
+      RECAPTCHA_SITE_KEY: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+      RECAPTCHA_SECRET_KEY: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+      REDIS_URL: "redis://redis:6379"
+    ports:
+      - 8002:3000
+    links:
+      - redis
+    restart: always
+  worker:
+    build: ./challenge/worker
+    environment:
+      FLAG: "HarekazeCTF{chr1stm4s_4lw4ys_rem1nds_me_0f_4m4g4m1}"
+      REDIS_URL: "redis://redis:6379"
+    links:
+      - challenge
+      - redis
+    restart: always
+  redis:
+    build: ./challenge/redis
+    restart: always

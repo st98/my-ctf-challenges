@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Incomplete Blog</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <main>
+    <h1>Incomplete Blog</h1>
+    <p>Welcome to my experimental blog!</p>
+    <p>This blog is currently under development. I'm working hard to implement a payment system for reading premium content, but it is not ready yet. So, more than 9000 articles that will be premium content are not available so far. Sorry for the inconvenience😉</p>
+    <h2>Articles</h2>
+    <ol start="0">
+      <% for (let i = 0; i < 10; i++) { %>
+      <li><a href="/article/<%= i %>"><%= articles[i].title %></a></li>
+      <% } %>
+      <li>(You need to be a premium user to read more articles)</li>
+    </ol>
+  </main>
+</body>
+</html>

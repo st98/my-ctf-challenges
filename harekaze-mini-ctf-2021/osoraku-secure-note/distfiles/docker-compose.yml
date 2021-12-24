@@ -1,0 +1,26 @@
+version: '3'
+services:
+  challenge:
+    build: ./server
+    environment:
+      #RECAPTCHA_ENABLED: "true"
+      #RECAPTCHA_SITE_KEY: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+      #RECAPTCHA_SECRET_KEY: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+      REDIS_URL: "redis://redis:6379"
+    ports:
+      - 8002:3000
+    links:
+      - redis
+    restart: always
+  worker:
+    build: ./worker
+    environment:
+      FLAG: "HarekazeCTF{DUMMY}"
+      REDIS_URL: "redis://redis:6379"
+    links:
+      - challenge
+      - redis
+    restart: always
+  redis:
+    build: ./redis
+    restart: always

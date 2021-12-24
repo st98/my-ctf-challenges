@@ -94,3 +94,14 @@ CTFtime link: https://ctftime.org/event/1466
 |Name|Genre|Estimated Difficulty|Points|Solves|Solution|
 |----|-----|--------------------|------|------|--------|
 |[Roda](bsides-ahmedabad-ctf-2021/roda/)|Web|easy|200|21|[English](https://hackmd.io/@st98/By9ZkjNDK), [Japanese](https://st98.github.io/diary/posts/2021-11-07-bsides-ahmedabad-ctf-2021.html#web-200-roda-21-solves)|
+
+## [Harekaze mini CTF 2021](harekaze-mini-ctf-2021/README.md)
+
+109 teams registered, and 73 teams got at least 1 points.
+
+|Name|Genre|Points|Solves|Solution|
+|----|-----|------|------|--------|
+|[Incomplete Blog](harekaze-mini-ctf-2021/incomplete-blog/)|Web|201|21|[Japanese](https://st98.github.io/diary/posts/2021-12-25-harekaze-mini-ctf-2021.html#web-201-incomplete-blog-21-solves)|
+|[Osoraku Secure Note](harekaze-mini-ctf-2021/osoraku-secure-note/)|Web|322|7|[Japanese](https://st98.github.io/diary/posts/2021-12-25-harekaze-mini-ctf-2021.html#web-322-osoraku-secure-note-7-solves)|
+|[Emoji Tsukuru](harekaze-mini-ctf-2021/emoji-tsukuru/)|Web|500|1|[Japanese](https://st98.github.io/diary/posts/2021-12-25-harekaze-mini-ctf-2021.html#web-500-emoji-tsukuru-1-solves)|
+|[Let’s read wasm](harekaze-mini-ctf-2021/lets-read-wasm/)|Web|365|5|[Japanese](https://st98.github.io/diary/posts/2021-12-25-harekaze-mini-ctf-2021.html#rev-365-lets-read-wasm-5-solves)|

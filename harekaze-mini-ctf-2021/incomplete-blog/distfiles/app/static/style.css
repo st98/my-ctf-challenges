@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+body {
+  font-family: "Consolas", monospace;
+}
+
+body {
+  background: rgb(18, 18, 18);
+  color: white;
+}
+
+main {
+  width: 100%;
+  margin: 1rem auto;
+  max-width: 40rem;
+  background: rgb(30, 30, 30);
+  padding: .5rem 1rem 1rem 1rem;
+  border-radius: 5px;
+}
+
+a {
+  color: gray;
+}
+
+small {
+  color: gray;
+}
+
+a:hover {
+  color: white;
+}

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Emoji Tsukuru</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <main class="container">
+    <h1>Emoji Tsukuru</h1>
+    <div class="menu">
+      <div class="item">
+        <h2>Preview</h2>
+        <div>
+          <canvas id="canvas" width="256" height="256"></canvas>
+        </div>
+        <button id="save">Save image</button>
+        <button id="geturl">Get URL to share</button><br>
+        <% if (RECAPTCHA_ENABLED) { %>
+        <button id="report" class="g-recaptcha" data-sitekey="<%- siteKey %>" data-callback='onSubmit' data-action='submit'>Share with admin!</button>
+        <% } else { %>
+        <button id="report" onclick='onSubmit("hello")'>Share with admin!</button>
+        <% } %>
+      </div>
+      <div class="item">
+        <div id="texts"></div>
+        <hr>
+        <button id="add">Add text</button>
+      </div>
+    </div>
+  </main>
+  <script src="/static/emoji.js"></script>
+  <script src="https://www.google.com/recaptcha/api.js"></script>
+</body>
+</html>

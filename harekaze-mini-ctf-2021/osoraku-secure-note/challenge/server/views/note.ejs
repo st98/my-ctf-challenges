@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Osoraku Secure Note</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <script src="/static/report.js"></script>
+</head>
+<body>
+  <header class="container">
+    <h1>Osoraku Secure Note</h1>
+    <a href="/">New note</a> | <a href="/note/00000000-0000-0000-0000-000000000000">Help</a>
+  </header>
+  <div class="container">
+    <% if (error) { %>
+    <h2><%= error %></h2>
+    <% } else { %>
+    <h2>Note posted at <%= new Date(note.timestamp).toISOString() %></h2>
+    <div class="note">
+      <%- note.content %>
+    </div>
+    <% if (RECAPTCHA_ENABLED) { %>
+    <button id="report" class="g-recaptcha" data-sitekey="<%- siteKey %>" data-callback='onSubmit' data-action='submit'>Report this note</button>
+    <% } else { %>
+    <button id="report" onclick='onSubmit("hello")'>Report this note</button>
+    <% } %>
+    <% } %>
+  </div>
+  <script src="https://www.google.com/recaptcha/api.js"></script>
+</body>
+</html>

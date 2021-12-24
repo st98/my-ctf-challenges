@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+
+body, textarea, button {
+  font-family: 'Work Sans', sans-serif;
+}
+
+code {
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+textarea {
+  padding: 1rem;
+  box-sizing: border-box;
+  background: white;
+  border: 1px solid rgb(85, 85, 85);
+  border-radius: 5px;
+}
+
+button {
+  padding: .5rem 1rem;
+  background: white;
+  border: 1px solid rgb(85, 85, 85);
+  border-radius: 5px;
+} 
+
+button:hover {
+  background: rgb(85, 85, 85);
+  color: white;
+  cursor: pointer;
+}
+
+button#report {
+  color: rgb(238, 85, 85);
+  border: 1px solid rgb(238, 85, 85);
+}
+
+button#report:hover {
+  background: rgb(238, 85, 85);
+  color: white;
+}
+
+canvas {
+  border: 1px solid rgb(85, 85, 85);
+}
+
+label {
+  vertical-align: top;
+}
+
+.container {
+  width: 90%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.menu {
+  display: flex;
+}
+
+.item {
+  flex: auto;
+}
