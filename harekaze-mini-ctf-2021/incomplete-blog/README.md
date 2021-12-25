@@ -25,6 +25,7 @@
 - (ja) [Harekaze mini CTF 2021 write-up - プログラム系統備忘録ブログ](https://tan.hatenadiary.jp/entry/2021/12/24/233149#Web-Incomplete-Blog-201-points-21-Solves)
 - (ja) [ctf_writeups/Harekaze_mini_CTF_2021/Incomplete_Blog at master · satoki/ctf_writeups](https://github.com/satoki/ctf_writeups/tree/master/Harekaze_mini_CTF_2021/Incomplete_Blog)
 - (ja) [Harekaze mini CTF 2021 writeup - Qiita](https://qiita.com/kusano_k/items/e283edda5733f4e99ee0#incomplete-blog)
+- (ja) [harekaze mini CTF 2021 write up - Qiita](https://qiita.com/daihi_t/items/32f49d5e0cf564d13b7e?utm_campaign=post_article&utm_medium=twitter&utm_source=twitter_share#incomplete-blog)
 
 ## Flag
 ```
