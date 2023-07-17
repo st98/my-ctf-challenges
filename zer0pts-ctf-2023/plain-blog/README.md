@@ -16,6 +16,7 @@ Frontend server: (URL)
 ## Writeups
 - (ja) [Tweet by @arkark_](https://twitter.com/arkark_/status/1680440212470759425)
 - (ja) [Tweet by @Satoooon1024](https://twitter.com/Satoooon1024/status/1680413520075309056)
+- (ja) [zer0pts CTF 2023 writeup (4 web challs) | XS-Spin Blog](https://blog.arkark.dev/2023/07/17/zer0pts-ctf/#web-Plain-Blog)
 
 ## Flag
 ```

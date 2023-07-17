@@ -14,6 +14,7 @@ I made another note app.
 ## Writeups
 - (ja) [Tweet by @arkark_](https://twitter.com/arkark_/status/1680438008900902912)
 - (ja) [Tweet by @Satoooon1024](https://twitter.com/Satoooon1024/status/1680413207800983552)
+- (ja) [zer0pts CTF 2023 writeup (4 web challs) | XS-Spin Blog](https://blog.arkark.dev/2023/07/17/zer0pts-ctf/#web-Neko-Note)
 
 ## Flag
 ```
