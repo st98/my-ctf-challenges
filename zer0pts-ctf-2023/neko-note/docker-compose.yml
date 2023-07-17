@@ -1,0 +1,32 @@
+version: '3'
+services:
+  challenge:
+    build: ./distfiles/app
+    ports:
+      - "8005:8080"
+    links:
+      - redis
+    environment:
+      - GIN_MODE=release
+      - REDIS_ADDR=redis:6379
+      - RECAPTCHA_SITE_KEY=(redacted)
+      - RECAPTCHA_SECRET_KEY=(redacted)
+      - ENABLE_RECAPTCHA=yes
+      - MASTER_KEY=ae4eadec-3bc0-4884-8ffb-f997a41d35b3
+    restart: always
+
+  bot:
+    build: ./distfiles/bot
+    links:
+      - challenge
+      - redis
+    environment:
+      - REDIS_ADDR=redis:6379
+      - FLAG=zer0pts{neko_no_te_mo_karitai_m8jYx9WiTDY}
+      - MASTER_KEY=ae4eadec-3bc0-4884-8ffb-f997a41d35b3
+      - BASE_URL=http://challenge:8080
+    restart: always
+
+  redis:
+    build: ./distfiles/redis
+    restart: always

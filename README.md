@@ -8,6 +8,7 @@ Challenges I created for CTFs
 - [Harekaze mini CTF 2020](#harekaze-mini-ctf-2020)
 - [zer0pts CTF 2021](#zer0pts-ctf-2021)
 - [BSides Ahmedabad CTF 2021](#bsides-ahmedabad-ctf-2021)
+- [zer0pts CTF 2021](#zer0pts-ctf-2023)
 
 ## [Harekaze CTF 2018](harekaze-ctf-2018/README.md)
 
@@ -105,3 +106,16 @@ CTFtime link: https://ctftime.org/event/1466
 |[Osoraku Secure Note](harekaze-mini-ctf-2021/osoraku-secure-note/)|Web|322|7|[Japanese](https://st98.github.io/diary/posts/2021-12-25-harekaze-mini-ctf-2021.html#web-322-osoraku-secure-note-7-solves)|
 |[Emoji Tsukuru](harekaze-mini-ctf-2021/emoji-tsukuru/)|Web|500|1|[Japanese](https://st98.github.io/diary/posts/2021-12-25-harekaze-mini-ctf-2021.html#web-500-emoji-tsukuru-1-solves)|
 |[Let’s read wasm](harekaze-mini-ctf-2021/lets-read-wasm/)|Web|365|5|[Japanese](https://st98.github.io/diary/posts/2021-12-25-harekaze-mini-ctf-2021.html#rev-365-lets-read-wasm-5-solves)|
+
+## [zer0pts CTF 2023](zer0pts-ctf-2023/README.md)
+
+476 teams got at least 53 points.
+
+CTFtime link: https://ctftime.org/event/1972
+
+|Name|Genre|Estimated Difficulty|Points|Solves|Solution|
+|----|-----|--------------------|------|------|--------|
+|[Warmuprofile](zer0pts-ctf-2023/warmuprofile/)|Web|warmup|137|48|(added later)|
+|[jqi](zer0pts-ctf-2023/jqi/)|Web|easy|149|40|(added later)|
+|[Neko Note](zer0pts-ctf-2023/neko-note/)|Web|easy-medium|181|26|(added later)|
+|[Plain Blog](zer0pts-ctf-2023/plain-blog/)|Web|medium|239|14|(added later)|

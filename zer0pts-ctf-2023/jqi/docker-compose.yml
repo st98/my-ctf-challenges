@@ -1,0 +1,9 @@
+version: '3'
+services:
+  app:
+    build: ./distfiles
+    ports:
+      - "8300:3000"
+    environment:
+      - FLAG=zer0pts{1dk_why_1t_uses_jq}
+    restart: always

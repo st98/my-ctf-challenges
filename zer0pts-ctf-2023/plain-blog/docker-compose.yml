@@ -1,0 +1,41 @@
+version: '3'
+services:
+  api:
+    build: ./distfiles/api
+    ports:
+      - "8400:4567"
+    environment:
+      - FLAG=zer0pts{tan_takatatontan_ton_takatatantatotan_8jOQmPx2Mjk}
+      - ALLOWED_ORIGIN=http://plain-blog.2023.zer0pts.com:8401,http://frontend
+      - ADMIN_KEY=b43aeeea-2992-4b3f-b167-2b30af4fa277
+    restart: always
+
+  frontend:
+    build: ./distfiles/frontend
+    ports:
+      - "8401:80"
+    links:
+      - redis
+    environment:
+      - API_BASE_URL=http://plain-blog.2023.zer0pts.com:8400
+      - API_BASE_URL_FOR_ADMIN=http://api:4567
+      - RECAPTCHA_SITE_KEY=(redacted)
+      - RECAPTCHA_SECRET_KEY=(redacted)
+      - ENABLE_RECAPTCHA=yes
+    restart: always
+
+  bot:
+    build: ./distfiles/bot
+    links:
+      - api
+      - frontend
+      - redis
+    environment:
+      - REDIS_ADDR=redis:6379
+      - ADMIN_KEY=b43aeeea-2992-4b3f-b167-2b30af4fa277
+      - FRONTEND_BASE_URL=http://frontend
+    restart: always
+
+  redis:
+    build: ./distfiles/redis
+    restart: always

@@ -1,0 +1,35 @@
+version: '3'
+services:
+  warmuprofile:
+    build: ./distfiles
+    image: warmuprofile
+
+  spawner:
+    image: ghcr.io/tyage/container-spawner:latest
+    environment:
+      - SPAWNER_IMAGE_NAME=warmuprofile
+      - SPAWNER_CONTAINER_PORT=3000
+      - SPAWNER_TIME_LIMIT=600
+      - RECAPTCHA_PUBLIC_KEY=(redacted)
+      - RECAPTCHA_PRIVATE_KEY=(redacted)
+      - SECRET_KEY=94998855a6d9afdd1b00566f
+      - SPAWNER_HOSTNAME=others.2023.zer0pts.com
+      - SPAWNER_CONTAINER_ARGS={"environment":{"FLAG":"zer0pts{fire_ice_storm_di_acute_brain_damned_jugem_bayoen_bayoen_bayoen_10cefab0}"}}
+    ports:
+      - "8600:5000"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    depends_on:
+      - warmuprofile
+    restart: always
+
+  cleaner:
+    image: ghcr.io/tyage/container-spawner-cleaner:latest
+    environment:
+      - SPAWNER_IMAGE_NAME=warmuprofile
+      - SPAWNER_TIME_LIMIT=600
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock   
+    depends_on:
+      - warmuprofile
+    restart: always
