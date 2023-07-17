@@ -8,7 +8,8 @@ I made another note app.
 - [distfiles/](distfiles/)
 
 ## Intended solution
-(added later)
+- [English](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/101119#Web-181-Neko-Note-26-solves)
+- [Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/141919#Web-181-Neko-Note-26-solves)
 
 ## Writeups
 - (ja) [Tweet by @arkark_](https://twitter.com/arkark_/status/1680438008900902912)

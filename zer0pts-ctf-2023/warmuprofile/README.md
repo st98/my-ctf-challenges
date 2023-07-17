@@ -10,7 +10,8 @@ Note: Click "Spawn container" to make a challenge container only for you. When w
 - [distfiles/](distfiles/)
 
 ## Intended solution
-(added later)
+- [English](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/101119#Web-137-Warmuprofile-48-solves)
+- [Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/141919#Web-137-Warmuprofile-48-solves)
 
 ## Writeups
 - (ja) [Tweet by @arkark_](https://twitter.com/arkark_/status/1680436242692063232)

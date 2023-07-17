@@ -115,7 +115,7 @@ CTFtime link: https://ctftime.org/event/1972
 
 |Name|Genre|Estimated Difficulty|Points|Solves|Solution|
 |----|-----|--------------------|------|------|--------|
-|[Warmuprofile](zer0pts-ctf-2023/warmuprofile/)|Web|warmup|137|48|(added later)|
-|[jqi](zer0pts-ctf-2023/jqi/)|Web|easy|149|40|(added later)|
-|[Neko Note](zer0pts-ctf-2023/neko-note/)|Web|easy-medium|181|26|(added later)|
-|[Plain Blog](zer0pts-ctf-2023/plain-blog/)|Web|medium|239|14|(added later)|
+|[Warmuprofile](zer0pts-ctf-2023/warmuprofile/)|Web|warmup|137|48|[English](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/101119#Web-137-Warmuprofile-48-solves), [Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/141919#Web-137-Warmuprofile-48-solves)|
+|[jqi](zer0pts-ctf-2023/jqi/)|Web|easy|149|40|[English](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/101119#Web-149-jqi-40-solves), [Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/141919#Web-149-jqi-40-solves)|
+|[Neko Note](zer0pts-ctf-2023/neko-note/)|Web|easy-medium|181|26|[English](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/101119#Web-181-Neko-Note-26-solves), [Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/141919#Web-181-Neko-Note-26-solves)|
+|[Plain Blog](zer0pts-ctf-2023/plain-blog/)|Web|medium|239|14|[English](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/101119#Web-239-Plain-Blog-14-solves), [Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/141919#Web-239-Plain-Blog-14-solves)|

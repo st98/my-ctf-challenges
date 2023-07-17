@@ -8,7 +8,8 @@ I think jq is useful, so I decided to make a Web app that uses jq.
 - [distfiles/](distfiles/)
 
 ## Intended solution
-(added later)
+- [English](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/101119#Web-149-jqi-40-solves)
+- [Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/141919#Web-149-jqi-40-solves)
 
 ## Writeups
 - (ja) [Tweet by @arkark_](https://twitter.com/arkark_/status/1680436845937831936)
