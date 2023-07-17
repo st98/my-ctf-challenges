@@ -19,6 +19,7 @@ Note: Click "Spawn container" to make a challenge container only for you. When w
 - (ja) [Tweet by @xrekkusu](https://twitter.com/xrekkusu/status/1680415813424267270)
 - (ja) [Tweet by @zeosutt](https://twitter.com/zeosutt/status/1680651938294304769)
 - (ja) [zer0pts CTF 2023 writeup - Qiita](https://qiita.com/kusano_k/items/3c6809ff163e2edbe826#warmuprofile-web-warmup)
+- (ja) [zer0pts CTF 2023 - よーでんのブログ](https://y0d3n.hatenablog.com/entry/2023/07/17/184639#Warmuprofile)
 
 ## Flag
 ```
