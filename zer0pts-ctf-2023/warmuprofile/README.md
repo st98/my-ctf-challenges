@@ -21,6 +21,7 @@ Note: Click "Spawn container" to make a challenge container only for you. When w
 - (ja) [zer0pts CTF 2023 writeup - Qiita](https://qiita.com/kusano_k/items/3c6809ff163e2edbe826#warmuprofile-web-warmup)
 - (ja) [zer0pts CTF 2023 - よーでんのブログ](https://y0d3n.hatenablog.com/entry/2023/07/17/184639#Warmuprofile)
 - (ja) [zer0pts CTF 2023 writeup (4 web challs) | XS-Spin Blog](https://blog.arkark.dev/2023/07/17/zer0pts-ctf/#web-Warmuprofile)
+- (en) [Warmuprofile | Siunam’s Website](https://siunam321.github.io/ctf/zer0pts-CTF-2023/web/Warmuprofile/)
 
 ## Flag
 ```
