@@ -1,0 +1,15 @@
+services:
+  backend:
+    build: backend
+    init: true
+    cap_add:
+      - SYS_PTRACE # note: I added this capability to make the challenge easier :p
+    ports:
+      - "3000:3000"
+  crawler:
+    build: crawler
+    restart: unless-stopped
+    ports:
+      - "3001:3000"
+    environment:
+      - FLAG=flag{redacted}

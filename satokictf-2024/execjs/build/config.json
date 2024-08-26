@@ -1,0 +1,20 @@
+{
+    "spawner": {
+        "url": "(change this)",
+        "name": "EXECjs Spawner"
+    },
+    "challengeName": "EXECjs",
+    "ttl": 900,
+    "recaptcha": {
+        "enable": true,
+        "siteKey": "(change this)",
+        "secretKey": "(change this)"
+    },
+    "secretKey": "dNCKRU26HTiZYEezLTCEQG",
+    "container": {
+        "image": "execjs",
+        "localPort": "3000/tcp",
+        "maxMemory": "128m",
+        "init": true
+    }
+}

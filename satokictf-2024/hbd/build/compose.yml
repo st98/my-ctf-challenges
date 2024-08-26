@@ -1,0 +1,11 @@
+services:
+  proxy:
+    build: proxy
+    ports:
+      - "8848:8000"
+    depends_on:
+      - apache
+    environment:
+      - FLAG=flag{tanjobi_anata_8ae01c4e}
+  apache:
+    image: httpd:2.4

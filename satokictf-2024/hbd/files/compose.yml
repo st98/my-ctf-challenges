@@ -1,0 +1,11 @@
+services:
+  proxy:
+    build: proxy
+    ports:
+      - "8848:8000"
+    depends_on:
+      - apache
+    environment:
+      - FLAG=flag{dummy}
+  apache:
+    image: httpd:2.4

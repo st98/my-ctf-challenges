@@ -9,6 +9,8 @@ Challenges I created for CTFs
 - [zer0pts CTF 2021](#zer0pts-ctf-2021)
 - [BSides Ahmedabad CTF 2021](#bsides-ahmedabad-ctf-2021)
 - [zer0pts CTF 2021](#zer0pts-ctf-2023)
+- [zer0pts CTF 2023](#zer0pts-ctf-2023)
+- [SatokiCTF 2024](#satokictf-2024)
 
 ## [Harekaze CTF 2018](harekaze-ctf-2018/README.md)
 
@@ -119,3 +121,13 @@ CTFtime link: https://ctftime.org/event/1972
 |[jqi](zer0pts-ctf-2023/jqi/)|Web|easy|149|40|[English](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/101119#Web-149-jqi-40-solves), [Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/141919#Web-149-jqi-40-solves)|
 |[Neko Note](zer0pts-ctf-2023/neko-note/)|Web|easy-medium|181|26|[English](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/101119#Web-181-Neko-Note-26-solves), [Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/141919#Web-181-Neko-Note-26-solves)|
 |[Plain Blog](zer0pts-ctf-2023/plain-blog/)|Web|medium|239|14|[English](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/101119#Web-239-Plain-Blog-14-solves), [Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2023/07/17/141919#Web-239-Plain-Blog-14-solves)|
+
+## [SatokiCTF 2024](satokictf-2024/README.md)
+
+101 teams got at least 1 point.
+
+|Name|Genre|Estimated Difficulty|Points|Solves|Solution|
+|----|-----|--------------------|------|------|--------|
+|[HBD](satokictf-2024/hbd/)|Misc|warmup|100|19|[Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2024/08/26/210040#Misc-100-HBD-19-solves-warmup)|
+|[zzz](satokictf-2024/zzz/)|Misc|warmup|100|21|[Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2024/08/26/210040#Misc-100-zzz-21-solves-warmup)|
+|[EXECjs](satokictf-2024/execjs/)|Web|satoki(hard)|500|1|[Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2024/08/26/210040#Web-500-EXECjs-1-solves-satoki)|

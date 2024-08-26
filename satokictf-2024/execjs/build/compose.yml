@@ -1,0 +1,17 @@
+services:
+  backend:
+    build: backend
+    init: true
+    cap_add:
+      - SYS_PTRACE # note: I added this capability to make the challenge easier :p
+    image: execjs
+  crawler:
+    build: crawler
+    restart: unless-stopped
+    ports:
+      - "52149:3000"
+    environment:
+      - FLAG=flag{kaenbyou_rin_fe6d4c7d}
+      - SECRET_KEY=dNCKRU26HTiZYEezLTCEQG
+      - RECAPTCHA_SITE_KEY=(redacted)
+      - RECAPTCHA_SECRET_KEY=(redacted)

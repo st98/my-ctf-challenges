@@ -1,0 +1,6 @@
+services:
+  zzz:
+    build: .
+    ports:
+      - "22222:5000"
+    init: true

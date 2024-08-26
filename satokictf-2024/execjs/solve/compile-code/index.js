@@ -1,0 +1,1 @@
+globalThis.WebSocket = require('ws').WebSocket;
