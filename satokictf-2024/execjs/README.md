@@ -14,6 +14,8 @@
 - [Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2024/08/26/210040#Web-500-EXECjs-1-solves-satoki)
 
 ## Writeups
+- [execjs_solve.js](https://gist.github.com/strellic/48e797fd875c09636919f4de3a2911c6)
+- (ja) [Satoki CTF - EXECJs writeup](https://zenn.dev/tchen/articles/a5e2d4a207ae46)
 
 ## Flag
 ```
