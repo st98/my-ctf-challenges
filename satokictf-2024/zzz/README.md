@@ -24,6 +24,7 @@
 - (ja) [ctf_writeup/SatokiCTF/Misc/zzz at main · colza12/ctf_writeup](https://github.com/colza12/ctf_writeup/tree/main/SatokiCTF/Misc/zzz)
 - (ja) [satokictf 2024 writeup #CTF - Qiita](https://qiita.com/oboboo/items/bdc4caefd5eab3750bd7#zzz)
 - (ja) [SatokiCTF write-up - プログラム系統備忘録ブログ](https://tan.hatenadiary.jp/entry/2024/08/28/021429#Misc-warmup-zzz-21-teams-solves-100-points)
+- (ja) [SatokiCTF 報告書](https://zenn.dev/asusn/articles/813742cdc48413#zzz-(misc))
 
 ## Flag
 ```
