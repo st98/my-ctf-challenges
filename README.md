@@ -131,3 +131,11 @@ CTFtime link: https://ctftime.org/event/1972
 |[HBD](satokictf-2024/hbd/)|Misc|warmup|100|19|[Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2024/08/26/210040#Misc-100-HBD-19-solves-warmup)|
 |[zzz](satokictf-2024/zzz/)|Misc|warmup|100|21|[Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2024/08/26/210040#Misc-100-zzz-21-solves-warmup)|
 |[EXECjs](satokictf-2024/execjs/)|Web|satoki(hard)|500|1|[Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2024/08/26/210040#Web-500-EXECjs-1-solves-satoki)|
+
+## [AlpacaHack Round 7 (Web)](alpacahack-round-7/README.md)
+
+78 users got at least 1 point.
+
+|Name|Genre|Estimated Difficulty|Points|Solves|Solution|
+|----|-----|--------------------|------|------|--------|
+|[Alpaca Poll](alpacahack-round-7/alpaca-poll/)|Web|easy|146|42|[Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2024/12/12/191132)|

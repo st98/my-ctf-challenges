@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Alpaca Poll</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+    <section class="container">
+        <h1>Alpaca Poll</h1>
+    </section>
+    <section class="container">
+        <h2>Which animal is your favorite?</h2>
+        <div id="candidates">
+            <div data-id="dog">
+                🐶<br>dog
+                <div class="num"></div>
+            </div>
+            <div data-id="cat">
+                😺<br>cat<br>
+                <div class="num"></div>
+            </div>
+            <div data-id="alpaca">
+                <img src="alpaca.svg"><br>alpaca
+                <div class="num"></div>
+            </div>
+        </div>
+    </section>
+    <script>
+    (async () => {
+        const nums = await (await fetch('/votes')).json();
+        [...document.getElementById('candidates').children].forEach(div => {
+            const animal = div.dataset.id;
+            const num = div.querySelector('.num');
+            num.innerText = `${nums[animal]} votes`;
+
+            div.addEventListener('click', async () => {
+                const result = await (await fetch('/vote', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                    body: `animal=${animal}`
+                })).json();
+                num.innerText = `${result[animal]} votes`;
+                div.classList.add('voted');
+            }, { once: true });
+        });
+    })();
+    </script>
+</body>
+</html>
