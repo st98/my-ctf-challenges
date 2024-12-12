@@ -11,6 +11,7 @@ Challenges I created for CTFs
 - [zer0pts CTF 2021](#zer0pts-ctf-2023)
 - [zer0pts CTF 2023](#zer0pts-ctf-2023)
 - [SatokiCTF 2024](#satokictf-2024)
+- [AlpacaHack Round 7 (Web)](#alpacahack-round-7-web)
 
 ## [Harekaze CTF 2018](harekaze-ctf-2018/README.md)
 
