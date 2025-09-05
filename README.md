@@ -142,7 +142,7 @@ CTFtime link: https://ctftime.org/event/1972
 |----|-----|--------------------|------|------|--------|
 |[Alpaca Poll](alpacahack-round-7/alpaca-poll/)|Web|easy|146|42|[Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2024/12/12/191132)|
 
-## [GMO Flatt Security mini CTF #7]([alpacahack-round-7/README.md](https://github.com/flatt-security/mini-ctf/blob/main/2025-08-minictf-7/README.md))
+## [GMO Flatt Security mini CTF #7](https://github.com/flatt-security/mini-ctf/blob/main/2025-08-minictf-7/README.md)
 
 57 players got at least 100 points.
 
