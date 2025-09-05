@@ -148,7 +148,7 @@ CTFtime link: https://ctftime.org/event/1972
 
 |Name|Genre|Estimated Difficulty|Points|Solves|Solution|
 |----|-----|--------------------|------|------|--------|
-|[login-as-admin](https://github.com/flatt-security/mini-ctf/tree/main/2025-08-minictf-7/001)|Web|warmup|100|57|[Japanese]([https://nanimokangaeteinai.hateblo.jp/entry/2024/12/12/191132](https://nanimokangaeteinai.hateblo.jp/entry/2025/08/20/212159#Web-login-as-admin-57-solves))|
-|[file yomitaro](https://github.com/flatt-security/mini-ctf/tree/main/2025-08-minictf-7/002)|Web|easy|100|36|[Japanese]([https://nanimokangaeteinai.hateblo.jp/entry/2024/12/12/191132](https://nanimokangaeteinai.hateblo.jp/entry/2025/08/20/212159#Web-file-yomitaro-36-solves))|
-|[shaberu ushi](https://github.com/flatt-security/mini-ctf/tree/main/2025-08-minictf-7/003)|Web|medium|100|10|[Japanese]([https://nanimokangaeteinai.hateblo.jp/entry/2024/12/12/191132](https://nanimokangaeteinai.hateblo.jp/entry/2025/08/20/212159#Web-shaberu-ushi-10-solves))|
-|[helmet-anuki](https://github.com/flatt-security/mini-ctf/tree/main/2025-08-minictf-7/004)|Web|medium|100|17|[Japanese]([https://nanimokangaeteinai.hateblo.jp/entry/2024/12/12/191132](https://nanimokangaeteinai.hateblo.jp/entry/2025/08/20/212159#Web-helmet-anuki-17-solves))|
+|[login-as-admin](https://github.com/flatt-security/mini-ctf/tree/main/2025-08-minictf-7/001)|Web|warmup|100|57|[Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2025/08/20/212159#Web-login-as-admin-57-solves)|
+|[file yomitaro](https://github.com/flatt-security/mini-ctf/tree/main/2025-08-minictf-7/002)|Web|easy|100|36|[Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2025/08/20/212159#Web-file-yomitaro-36-solves)|
+|[shaberu ushi](https://github.com/flatt-security/mini-ctf/tree/main/2025-08-minictf-7/003)|Web|medium|100|10|[Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2025/08/20/212159#Web-shaberu-ushi-10-solves)|
+|[helmet-anuki](https://github.com/flatt-security/mini-ctf/tree/main/2025-08-minictf-7/004)|Web|medium|100|17|[Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2025/08/20/212159#Web-helmet-anuki-17-solves)|
