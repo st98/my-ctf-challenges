@@ -13,6 +13,7 @@ Challenges I created for CTFs
 - [SatokiCTF 2024](#satokictf-2024)
 - [AlpacaHack Round 7 (Web)](#alpacahack-round-7-web)
 - [GMO Flatt Security mini CTF #7](#gmo-flatt-security-mini-ctf-7)
+- [International Cybersecurity Challenge 2025](#international-cybersecurity-challenge-2025)
 
 ## [Harekaze CTF 2018](harekaze-ctf-2018/README.md)
 
@@ -152,3 +153,19 @@ CTFtime link: https://ctftime.org/event/1972
 |[file yomitaro](https://github.com/flatt-security/mini-ctf/tree/main/2025-08-minictf-7/002)|Web|easy|100|36|[Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2025/08/20/212159#Web-file-yomitaro-36-solves)|
 |[shaberu ushi](https://github.com/flatt-security/mini-ctf/tree/main/2025-08-minictf-7/003)|Web|medium|100|10|[Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2025/08/20/212159#Web-shaberu-ushi-10-solves)|
 |[helmet-anuki](https://github.com/flatt-security/mini-ctf/tree/main/2025-08-minictf-7/004)|Web|medium|100|17|[Japanese](https://nanimokangaeteinai.hateblo.jp/entry/2025/08/20/212159#Web-helmet-anuki-17-solves)|
+
+## International Cybersecurity Challenge 2025
+
+### Jeopardy
+
+|Name|Genre|Estimated Difficulty|Points|Solves|Solution|
+|----|-----|--------------------|------|------|--------|
+|[Sign Kudasai](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/web/sign-kudasai)|Web|Warmup|100|8|[Japanese](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/web/sign-kudasai/solution)|
+|[Manul Proxy](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/web/manul-proxy)|Web|Medium|205|4|[Japanese](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/web/manul-proxy/solution)|
+|[Fish Print](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/web/fish-print)|Web|Medium|205|4|[Japanese](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/web/fish-print/solution)|
+
+### Attack & Defense
+
+|Name|Genre|Solution|
+|----|-----|--------|
+|[EC Junior](https://github.com/ctfplatform/icc-2025-ad-problems)|Web|[English, Japanese](https://github.com/ctfplatform/icc-2025-ad-problems/tree/main/private_files/ec-junior)|
