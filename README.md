@@ -160,9 +160,9 @@ CTFtime link: https://ctftime.org/event/1972
 
 |Name|Genre|Estimated Difficulty|Points|Solves|Solution|
 |----|-----|--------------------|------|------|--------|
-|[Sign Kudasai](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/web/sign-kudasai)|Web|Warmup|100|8|[Japanese](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/web/sign-kudasai/solution)|
-|[Manul Proxy](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/web/manul-proxy)|Web|Medium|205|4|[Japanese](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/web/manul-proxy/solution)|
-|[Fish Print](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/web/fish-print)|Web|Medium|205|4|[Japanese](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/web/fish-print/solution)|
+|[Sign Kudasai](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/web/sign-kudasai)|Web|Warmup|100|8|[English, Japanese](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/web/sign-kudasai/solution)|
+|[Manul Proxy](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/web/manul-proxy)|Web|Medium|205|4|[English, Japanese](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/web/manul-proxy/solution)|
+|[Fish Print](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/web/fish-print)|Web|Medium|205|4|[English, Japanese](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/web/fish-print/solution)|
 
 ### Attack & Defense
 
